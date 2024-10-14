@@ -8,3 +8,10 @@ Components (Flow):
 4. Bit Reception and Image Reconstruction
 5. Error Handling
 6. Interface (Future Scope)
+
+
+Implementation Sample: flower.jpg
+Selected Image at the Senders end![flower](https://github.com/user-attachments/assets/9f7f200f-392a-4383-b699-91ca4f04349a)
+
+Image received at the Receivers end![received_image](https://github.com/user-attachments/assets/f6ebcdcb-250c-4d18-9063-342ad16317d1)
+
