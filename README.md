@@ -18,3 +18,6 @@ Selected Image at the Senders end <br>
 Image received at the Receivers end <br>
 <img src="https://github.com/user-attachments/assets/f6ebcdcb-250c-4d18-9063-342ad16317d1" width="300">
 
+Methods Description:
+(To be Updated)
+
