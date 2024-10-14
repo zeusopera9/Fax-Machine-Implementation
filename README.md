@@ -12,9 +12,9 @@ Components (Flow):
 
 Implementation Sample: flower.jpg
 
-Selected Image at the Senders end
+Selected Image at the Senders end <br>
 <img src="https://github.com/user-attachments/assets/9f7f200f-392a-4383-b699-91ca4f04349a" width="300">
 
-Image received at the Receivers end![received_image](https://github.com/user-attachments/assets/f6ebcdcb-250c-4d18-9063-342ad16317d1)
+Image received at the Receivers end <br>
 <img src="https://github.com/user-attachments/assets/f6ebcdcb-250c-4d18-9063-342ad16317d1" width="300">
 
