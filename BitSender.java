@@ -46,7 +46,7 @@ public class BitSender {
 
     public static void main(String[] args) {
         // Actual bitVector obtained from image
-        List<Integer> bitVector = ImageToBitVector.imageToBitVector("C://Users//zaida//Desktop//dog.jpeg");
+        List<Integer> bitVector = ImageToBitVector.imageToBitVector("your_path_to_image");
 
         try(Socket socket = new Socket(SERVER_ADDRESS, PORT)) {
             DataOutputStream out = new DataOutputStream(socket.getOutputStream());
